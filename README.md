@@ -104,7 +104,7 @@ The word Monibuca is derived from (Monica), and in order to solve the naming pro
 - If you need to compile and start the project yourself, you need to install go1.19 or above.
 
 The official download link of the latest version is provided:
-- [Linux](https://download.m7s.live/bin/m7s_linux_arm64.tar.gz)
+- [Linux](https://download.m7s.live/bin/m7s_linux_amd64.tar)
 - [Linux-arm64](https://download.m7s.live/bin/m7s_linux_arm64.tar.gz)
 - [Mac](https://download.m7s.live/bin/m7s_darwin_arm64.tar.gz)
 - [Mac-arm64](https://download.m7s.live/bin/m7s_darwin_arm64.tar.gz)
